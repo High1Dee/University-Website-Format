@@ -1,0 +1,50 @@
+nav{
+	position:fixed;
+	top:0px;
+}
+nav div a img{
+	margin:0px;
+	padding:0px;
+}
+li.dropdown:hover ul.dropdown-menu{
+	display:block;
+}
+div.afternav{
+	background-image:url("https://media.istockphoto.com/id/534576365/photo/elementary-school-children-wearing-blue-school-uniforms-raising-hands-in-classroom.jpg?s=612x612&w=0&k=20&c=LEdI0qaduUMsCWw32y0OASviPJvo8vrE1hYSE0GBEX8=");
+	height:600px;
+	background-size:cover;
+	background-attachment: fixed;
+	position:relative;
+}
+div.afternav h1{
+	position:absolute;
+	top:49%;
+	left:40%;
+	color:white;
+}
+h1.browse{
+	font-family:"brush script MT";
+	font-size: 80px;
+	text-align:center;
+	padding:70px;
+}
+div.card{
+	width:200px;
+}
+h4{
+	color:gold;
+	text-transform:capitalize;
+	text-align:center;
+}
+div.shadow-lg{
+	height:500px;
+}
+p.display-6{
+	font-family:georgian;
+	text-align:center;
+	text-transform:lowercase;
+}
+footer{
+	height:500px;
+	color:white;
+}
